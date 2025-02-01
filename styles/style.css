@@ -91,7 +91,6 @@
   line-height: 18px;
   padding: 3px 13px;
   align-items: center;
-  line-height: 18px;
   justify-content: center;
   text-align: center;
   cursor: pointer;
@@ -143,7 +142,7 @@
 }
 
 .main__section-first-title {
-  color: var(--main-title-color, #ff0070);
+  color: var(--main-first-title-color, #ff0070);
   font-weight: var(--main-font-weight, 700);
   /* padding-bottom: 20px; */
   font-size: 18px;
@@ -154,7 +153,7 @@
   font-size: 18px;
 }
 
-.main__section-first{
+.main__section-first {
   display: grid;
   gap: 20px;
 }
