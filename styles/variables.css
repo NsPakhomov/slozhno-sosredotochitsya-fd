@@ -13,9 +13,10 @@
   --button-color: #FF0070;
   --title-color: #DB00FF;
   --header-text-color: #000028;
-  --text-decor: #FF8DCB;
+  --text-decor: #ff0070;
   --main-title-color: #353430;
   --main-font-weight: 700;
   --main-text-color: #F1B2CE;
-  --main-first-title-color: #FF0070;
+  --main-section-title-color: #FF0070;
+  --button-color-hover: rgba(255, 0, 112, 0.4);
 }

@@ -22,7 +22,7 @@
   --main-title-color: #353430;
   --main-font-weight: 700;
   --main-text-color: #353430;
-  --main-first-title-color: #353430;
+  --main-section-title-color: #353430;
 }
 
 @media (prefers-color-scheme: light) {
@@ -40,7 +40,7 @@
   --main-title-color: #353430;
   --main-font-weight: 700;
   --main-text-color: #353430;
-  --main-first-title-color: #353430;
+  --main-section-title-color: #353430;
   }
   .header__rec {
     display: none;
