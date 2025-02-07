@@ -344,6 +344,7 @@
 
   .header__theme-menu-list {
     flex-direction: row;
+    gap: 8px;
   }
 
   .header__text {
