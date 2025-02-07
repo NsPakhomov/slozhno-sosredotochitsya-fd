@@ -23,6 +23,11 @@
   --main-font-weight: 700;
   --main-text-color: #353430;
   --main-section-title-color: #353430;
+  --button-color-hover: #353430;
+
+  .header__rec {
+    display: none;
+  }
 }
 
 @media (prefers-color-scheme: light) {
@@ -41,6 +46,7 @@
   --main-font-weight: 700;
   --main-text-color: #353430;
   --main-section-title-color: #353430;
+  --button-color-hover: #353430;
   }
   .header__rec {
     display: none;
@@ -48,4 +54,8 @@
 }
 .theme-light .page {
   /* Вам также нужно будет написать ряд подобных селекторов */
+}
+
+.theme-light .header__rec {
+  display: none;
 }
