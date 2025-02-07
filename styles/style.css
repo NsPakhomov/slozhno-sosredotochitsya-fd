@@ -40,16 +40,12 @@
   right: 10px;
   border-block-start: 1px solid var(--button-color, #ff0070);
   border-inline-end: 1px solid var(--button-color, #ff0070);
-  border-block-start: 1px solid var(--button-color, #ff0070);
-  border-inline-end: 1px solid var(--button-color, #ff0070);
 }
 
 .decorated-zone::after {
   content: "";
   left: 10px;
   bottom: 10px;
-  border-block-end: 1px solid var(--button-color, #ff0070);
-  border-inline-start: 1px solid var(--button-color, #ff0070);
   border-block-end: 1px solid var(--button-color, #ff0070);
   border-inline-start: 1px solid var(--button-color, #ff0070);
 }
