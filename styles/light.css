@@ -23,6 +23,7 @@
   --main-font-weight: 700;
   --main-text-color: #353430;
   --main-section-title-color: #353430;
+  --button-color-hover: #353430;
 }
 
 @media (prefers-color-scheme: light) {
@@ -41,6 +42,7 @@
   --main-font-weight: 700;
   --main-text-color: #353430;
   --main-section-title-color: #353430;
+  --button-color-hover: #353430;
   }
   .header__rec {
     display: none;
