@@ -381,9 +381,3 @@
     min-block-size: 768px;
   }
 }
-
-/* @media (prefers-color-scheme: dark) {
-  .header__rec {
-    display: block;
-  }
-} */
