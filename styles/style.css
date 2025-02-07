@@ -369,15 +369,22 @@
   } */
 
   .main__section-subblock-title {
+    /* display: grid; */
     grid-template-columns: none;
   }
 
-  .main__section-block-subblock {
+  /* .main__section-block-subblock {
     grid-row: 2;
-    /* min-width: 315px; */
-  }
+    min-inline-size: 315px;
+  } */
 
   .footer {
     min-block-size: 768px;
   }
 }
+
+/* @media (prefers-color-scheme: dark) {
+  .header__rec {
+    display: block;
+  }
+} */
