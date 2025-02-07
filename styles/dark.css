@@ -30,6 +30,10 @@
   }
 }
 
+.theme-dark .header__rec {
+  display: block;
+}
+
 /* @media (prefers-color-scheme: dark) {
   :root {
     --background-image: url(../images/cover-image-dark.png);
